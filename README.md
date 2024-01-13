@@ -1,2 +1,2 @@
-## Repositório do curso python e django criado pela womakers code
+## Repositório do curso python e django criado pela womakerscode
 
